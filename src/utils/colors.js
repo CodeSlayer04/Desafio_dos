@@ -1,0 +1,6 @@
+export default {
+  PRIMARY_COLOR: "#fe8d00",
+  BUTTON_COLOR: "#501c20",
+  COMPLEMENTARY_COLOR: "#d83a13",
+  COMPLEMENTARY2_COLOR: "#ff7101",
+};
